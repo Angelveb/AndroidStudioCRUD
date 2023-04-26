@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Crud</string>
+
+    <string name="img_imagen">imagen</string>
+
+    <string name="text_hint_user">User</string>
+    <string name="text_hint_password">Password</string>
+    <string name="text_titleLogin">Iniciar sesión</string>
+
+    <string name="text_titleRegister">Registrarse</string>
+    <string name="btn_text_login">Login</string>
+    <string name="btn_text_register">Register</string>
+</resources>
